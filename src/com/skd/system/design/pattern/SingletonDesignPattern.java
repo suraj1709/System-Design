@@ -1,4 +1,4 @@
-package com.skd.system.design;
+package com.skd.system.design.pattern;
 
 public class SingletonDesignPattern {
 

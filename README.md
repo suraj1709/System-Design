@@ -3,10 +3,10 @@
 *Learning Design from Basic*
 
 > **Design Pattern**
-  - [Singleton Pattern](https://github.com/suraj1709/System-Design/blob/master/src/com/skd/system/design/SingletonDesignPattern.java)
-  - Factory Pattern
+-   [Singleton Pattern](https://github.com/suraj1709/System-Design/blob/master/src/com/skd/system/design/pattern/SingletonDesignPattern.java)
+  - [Factory Pattern](https://github.com/suraj1709/System-Design/blob/master/src/com/skd/system/design/pattern/FactoryDesignPattern.java)
   - Abstract Factory Pattern
-  - Builder Pattern
+  - [Builder Pattern](https://github.com/suraj1709/System-Design/blob/master/src/com/skd/system/design/pattern/BuilderDesignPattern.java)
   - Prototype Pattern
   - Structural Pattern
   - Adapter Pattern
