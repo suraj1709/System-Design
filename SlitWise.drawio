@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T17:00:26.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ym_BqYQA1BMsDEZ4P3hx" version="16.2.4" type="github"><diagram id="PcPKK9ARHqvdIJUWMMXC" name="Page-1">7Vjbbts4EP0aP6awro4ffcmm29rZoEabxwUj0RIRitRSVGz36zsUqZspt3ETYx+awHDEM0OamjlzRtTIW2T7W4HydM1jTEfuON6PvOXIdad+CN8KOGggrIFEkFhDTgtsyHdswLFBSxLjoucoOaeS5H0w4ozhSPYwJATf9d22nPZ/NUcJtoBNhKiNPpBYphq9dict/hGTJK1/2Qmn2pKh2tncSZGimO86kHcz8haCc6mvsv0CUxW7Oi563l8nrM3GBGbyJROuwv2njzMWO7Mnxnk8fni4zq68QC/zjGhp7niTUyIfSIFvBS9zs3d5qANS7EhGEYPRfMuZ3BiLA2NEScLgOoIdYQHAMxaSQCxnxiB5DmiUEhqv0IGXat+FRNFTPZqnXJDvsCyiZk0wC2lo4YY9j42aCfAYUIEL8Lmvg+EcQWu07zmuUCENEHFKUV6Qx+Y2MiQSwuZcSp4Zp+IJyyg1g0SgmMCiC065qILibas/sO1SIvEmR5FabAcVoXYss/pu7JyZNKpI4X0HMjm8xTzDUhzAxVhDQydTT87UjHctOx3PYGmXmb4BkamIpFm6JQ1cGN6cw6HQ4lCiqPM3TJptpCAsGUHqXM/R0QPTHcrwkDHD2SMWC16q8MxgzRXv2SOBkcTxEr7AXv1rjaSYRZI8K8scJAIj1jG+xeVRJUDCZMVQwZ9wTQbGdWkQSo+gujoo3sqTtVEAdSAkq8pn6bfIF5NJBXGYu6WVlqQkjjFTvOYSSaRJrHabc8JklelgDh/I/WL8IRgFsPEFjJ12DB/lLoDPDO4FkYqaGCpkh1WVXIC0rhO+jLRT//Wc3a62GJrT3ZdN+o+8dT9vvol/ryYWZa30YhbPVANpM9gpZBxDlzC+ELqUJ5whetOikJCSxTg26dCrq1kn1dtABS9FhH9ZbnaoBaZI07/bAgcCZ6beK4a0KfKu+zny3CO90Bszs7p95mgh92ihJvn1QqDoCZbWQhBsdOi4GQaf3LA7Gf6dk/v6uT9c6B20pGqC+/s8qx9juv2Vkrzqr+tK7M5psK/rnAOa9L800xPiMVANJ/XEnfj9XI4HuqA/1AWPWf1miuI4VqZ1Nxtug9q2xBIRtbTudrMoqlpf60ZBhdaQq4N2WPJShba1P3IlUdqjXsVyIsU9UntXxqHO+Ef3tV/w8CdVbbOzUZaXkfFi3c3xTz/Vq4eqFSDjr+uVlXrrUfV1Ver2FTewi9TzHTsuxw3j7eJin3aakntX4bPze/RU5/svPYoEF0uwfRQpCyPBAFsqzPQ5ZMiUp5Ccu7Jq0cMeFXHE4YQVxTEkpjDCbgatuWTkvxIb/a98vlaI5TLcPt5F+3zRDs4W7UHyupdSbdcmb8ObP02d+qen3usXdcOdVy/O0guCiUV9sPjBZD5dXuaBc1jrQpsuDa/eni72GbbROksvIDgYy0bO3vWk1pPfINol6BQOqc8Qncbnt04Ytm+Z9cG2fVXv3fwA</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-08T17:02:55.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UqHYRyuu8EMNR0Tsizwi" version="16.2.4" type="github">
+  <diagram id="PcPKK9ARHqvdIJUWMMXC" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-6xJHAnd1Aknood0WW8m-35" value="SplitWiseGroup" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;sketch=0;gradientColor=#ffffff;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="190" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-6xJHAnd1Aknood0WW8m-36" value="groupId:String&#xa;groupName:String&#xa;memberCount: Long&#xa;createdDate:Date&#xa;isActive:Boolean&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="60" y="216" width="130" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-7" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="1" source="-6xJHAnd1Aknood0WW8m-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="260" />
+              <mxPoint x="270" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-10" value="SliptWiseMember" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="274" y="200" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-11" value="memberId:String&#xa;memberDetail : Account&#xa;lendMoney: Double&#xa;borrowMoney : Double&#xa;isPaid: Boolean&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="fLfexGrNRShOtG2KSVr_-10" vertex="1">
+          <mxGeometry y="26" width="140" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-14" value="SplitWise LLD UML" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="50" width="341" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-15" value="Account" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="440" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-16" value="userId: String&#xa;name: String&#xa;phoneNumber: String&#xa;country: String&#xa;address: Address&#xa;uniqueDetail: Unique&#xa;uniqueId:String&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="fLfexGrNRShOtG2KSVr_-15" vertex="1">
+          <mxGeometry y="26" width="130" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-26" value="Address" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;" parent="1" vertex="1">
+          <mxGeometry x="274" y="440" width="136" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="fLfexGrNRShOtG2KSVr_-27" value="userId:String&#xa;streetNumber:String&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="274" y="466" width="136" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
